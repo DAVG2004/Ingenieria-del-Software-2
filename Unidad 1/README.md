@@ -77,5 +77,4 @@ El trabajo está estructurado en **4 ejercicios prácticos de aplicación** y un
 ## 🎁 Entrega Adicional (BONUS)
 
 * **Tema:** Comparativa de Actualizaciones PMBOK 7 (2021) vs. PMBOK 8 (2026) y Ensayo Crítico Individual.
-* **Documento:** [Ver Ensayo y Comparativa Bonus](./PRODUCTO%20I/Entrega_Bonus_PMBOK8.md)
 * **Resumen:** Análisis enfocado en la transición final hacia la gestión continua de productos (*Project-to-Product shift*), la incorporación de telemetría, IA para la gestión de backlogs y el impacto de la hiperadaptación en la ingeniería de software contemporánea.
