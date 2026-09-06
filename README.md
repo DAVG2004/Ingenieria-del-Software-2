@@ -19,6 +19,13 @@ El desarrollo de la materia está estructurado en las siguientes unidades, cada 
 - **Producto VII (Unidad 7):** Monitoreo, Métricas y Control de Calidad. Seguimiento tradicional (Valor Ganado) vs Métricas Ágiles (Cycle Time) y métricas DORA.
 - **Producto VIII (Unidad 8):** Cierre, Retrospectiva y Transición a Operaciones. Lecciones aprendidas, mantenimiento, soporte y auditorías post-proyecto.
 
-## 👥 Metodología de Trabajo
+## 👥 Integrantes y Metodología de Trabajo
 
-El trabajo se lleva a cabo mediante el modelo de **emprendimiento de software**, conformado por equipos de 4 participantes con un líder elegido por consenso. Cada equipo define un nombre y un eslogan, y se enfoca no solo en la planificación y fundamentos del proyecto, sino también en el desarrollo de habilidades blandas, comunicación y creación de consensos necesarios para el éxito del producto.
+El trabajo se lleva a cabo mediante el modelo de **emprendimiento de software**. Nuestro equipo de trabajo está conformado por **4 participantes**:
+
+- **Alexmary Ramirez** (Líder)
+- **Andres Gomez**
+- **Daniel Vallenilla**
+- **Jose Silva**
+
+Cada equipo define un nombre y un eslogan, y se enfoca no solo en la planificación y fundamentos del proyecto, sino también en el desarrollo de habilidades blandas, comunicación y creación de consensos necesarios para el éxito del producto.
