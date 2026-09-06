@@ -1,31 +1,53 @@
-# Ingeniería de Software II
+<div align="center">
+  <h1>🚀 Ingeniería de Software II</h1>
+  <p><i>Universidad Nacional Experimental de Guayana (UNEG) • Coordinación de Ingeniería en Informática</i></p>
+  <p><strong>Profesor:</strong> Mg. Félix Marquez</p>
+</div>
 
-**Universidad Nacional Experimental de Guayana (UNEG)**  
-**Coordinación de Ingeniería en Informática**  
-**Profesor:** Mg. Félix Marquez
+<hr/>
 
-Este repositorio es un portafolio de trabajo colaborativo para la materia **Ingeniería de Software II**. Aquí se irán registrando los "Productos" (entregables) correspondientes a cada unidad del curso, enfocándose en la creación de valor, metodologías ágiles, DevOps y buenas prácticas de ingeniería de software.
+## 🎯 Sobre este repositorio
+
+Este repositorio funciona como un **portafolio de trabajo colaborativo** para la materia de Ingeniería de Software II. Aquí iremos registrando y organizando todos los "Productos" (entregables) de cada unidad del curso, con un fuerte enfoque en:
+
+- Creación de valor 💎
+- Metodologías Ágiles 🏃‍♂️
+- Filosofía DevOps ♾️
+- Buenas prácticas de ingeniería de software 🛠️
+
+---
+
+## 👥 Nuestro Equipo
+
+Trabajamos bajo el modelo de **emprendimiento de software**, donde nuestro equipo está conformado por **4 participantes** que colaboran para lograr el éxito de los productos:
+
+| Rol | Integrante |
+| :---: | :--- |
+| 👑 **Líder** | **Alexmary Ramirez** |
+| 💻 **Miembro** | **Andres Gomez** |
+| 💻 **Miembro** | **Daniel Vallenilla** |
+| 💻 **Miembro** | **Jose Silva** |
+
+> *Nota: Como equipo nos enfocamos no solo en los aspectos técnicos y de planificación, sino también en el desarrollo de **habilidades blandas**, comunicación asertiva y la creación de consensos fundamentales para el proyecto.*
+
+---
 
 ## 📚 Contenido Programático y Entregables
 
-El desarrollo de la materia está estructurado en las siguientes unidades, cada una con un producto asociado:
+A continuación, el roadmap de aprendizaje dividido por unidades y sus respectivos productos:
 
-- **Producto I (Unidad 1):** Fundamentos de la Gestión de Proyectos y Productos de Software. Abarca desde la evolución de la crisis del software hasta la era Ágil y DevOps, estándares (PMBOK 7, SWEBOK V4, ISO 31000) y el Manifiesto Ágil.
-- **Producto II (Unidad 2):** Planificación y Ciclos de Vida. Comparación entre modelos predictivos (Cascada) y adaptativos (Ágil/Híbridos). Creación de artefactos de visión (Project Charter, Lean Canvas) y estructuras de desglose (WBS vs Product Backlog).
-- **Producto III (Unidad 3):** Estimación de un proyecto. Uso de diagramas PERT/CPM y técnicas de estimación ágil (Story Points, Planning Poker). Gestión de la incertidumbre y deuda técnica.
-- **Producto IV (Unidad 4):** Gestión de Riesgos y Deuda Técnica. Identificación y mitigación de riesgos (Ciberseguridad, Cloud, IA) y manejo de la deuda técnica como riesgo de negocio.
-- **Producto V (Unidad 5):** Gestión de Configuración, Versionamiento y DevOps. Control de versiones avanzado (Git), Integración/Despliegue Continuo (CI/CD) e Infraestructura como Código (IaC).
-- **Producto VI (Unidad 6):** Liderazgo, Equipos y Cultura de Ingeniería. Estructuras de equipo (Stream-aligned), gestión de equipos remotos, cultura DevOps y seguridad psicológica.
-- **Producto VII (Unidad 7):** Monitoreo, Métricas y Control de Calidad. Seguimiento tradicional (Valor Ganado) vs Métricas Ágiles (Cycle Time) y métricas DORA.
-- **Producto VIII (Unidad 8):** Cierre, Retrospectiva y Transición a Operaciones. Lecciones aprendidas, mantenimiento, soporte y auditorías post-proyecto.
+| Unidad | Título del Entregable | Temas Principales |
+| :---: | :--- | :--- |
+| **1** | 📦 **Producto I** | Evolución Ágil y DevOps, Estándares (PMBOK 7, SWEBOK V4), Manifiesto Ágil. |
+| **2** | 🗺️ **Producto II** | Planificación (Cascada vs Ágil), Artefactos (Lean Canvas), WBS vs Product Backlog. |
+| **3** | ⏱️ **Producto III**| Estimación (PERT/CPM, Story Points, Planning Poker), Gestión de incertidumbre. |
+| **4** | 🛡️ **Producto IV** | Gestión de Riesgos (Ciberseguridad, Cloud, IA) y Manejo de Deuda Técnica. |
+| **5** | ⚙️ **Producto V**  | Configuración y Versionamiento (Git), CI/CD, Infraestructura como Código (IaC). |
+| **6** | 🤝 **Producto VI** | Liderazgo, Estructuras de equipos (Stream-aligned), Cultura DevOps. |
+| **7** | 📊 **Producto VII**| Monitoreo, Métricas Ágiles (Cycle Time) y Métricas DORA, Control de Calidad. |
+| **8** | 🏁 **Producto VIII**| Cierre, Retrospectivas, Mantenimiento, Soporte y Transición a Operaciones. |
 
-## 👥 Integrantes y Metodología de Trabajo
-
-El trabajo se lleva a cabo mediante el modelo de **emprendimiento de software**. Nuestro equipo de trabajo está conformado por **4 participantes**:
-
-- **Alexmary Ramirez** (Líder)
-- **Andres Gomez**
-- **Daniel Vallenilla**
-- **Jose Silva**
-
-Cada equipo define un nombre y un eslogan, y se enfoca no solo en la planificación y fundamentos del proyecto, sino también en el desarrollo de habilidades blandas, comunicación y creación de consensos necesarios para el éxito del producto.
+<br/>
+<div align="center">
+  <i>Construido con dedicación para el semestre 2026 🎓</i>
+</div>
