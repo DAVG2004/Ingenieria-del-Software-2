@@ -1,0 +1,36 @@
+id,name,planned_hours,date_assign,depend_on_ids/id,is_closed
+task_1_1_1,1.1.1 Elicitación y redacción del Caso de Negocio,40,2026-10-01 08:00:00,,False
+task_1_1_2,1.1.2 Desarrollo y aprobación del Project Charter,24,,task_1_1_1,False
+task_h_1,H-1 Hito: Acta de Constitución Aprobada,0,,task_1_1_2,False
+task_1_2_1,1.2.1 Elaboración del Plan para la Dirección del Proyecto,40,,task_h_1,False
+task_1_2_2,1.2.2 Establecimiento de presupuestos y línea base,32,,task_1_2_1,False
+task_1_3_1,1.3.1 Revisiones de control de cambios y auditorías,320,,task_h_1,False
+task_2_1_1,2.1.1 Entrevistas presenciales y remotas (Clínica Chilemex),48,,task_h_1,False
+task_2_1_2,2.1.2 Grupos focales y encuestas a pacientes,40,,task_2_1_1,False
+task_2_2_1,2.2.1 Redacción documento SRS bajo IEEE 830,56,,task_2_1_2,False
+task_2_2_2,2.2.2 Validación legal de cumplimiento normativo (HIPAA),32,,task_2_2_1,False
+task_2_2_3,2.2.3 Diagramado de Casos de Uso y Procesos UML,40,,task_2_2_1,False
+task_h_2,H-2 Hito: Línea Base de Requisitos Aprobada,0,,"task_2_2_2,task_2_2_3",False
+task_3_1_1,3.1.1 Diseño de infraestructura backend en AWS,48,,task_h_2,False
+task_3_1_2,3.1.2 Modelado lógico y físico de datos del EHR,56,,task_3_1_1,False
+task_3_2_1,3.2.1 Wireframes de baja fidelidad,40,,task_h_2,False
+task_3_2_2,3.2.2 Mockups de alta fidelidad y guía de estilos,48,,task_3_2_1,False
+task_h_3,H-3 Hito: Arquitectura y Diseño Aprobados,0,,"task_3_1_2,task_3_2_2",False
+task_4_1_1,4.1.1 Codificación API REST para Historias Clínicas y Citas,80,,task_h_3,False
+task_4_1_2,4.1.2 Integración WebRTC con Twilio,64,,task_4_1_1,False
+task_4_1_3,4.1.3 Integración pasarelas de pago (Stripe + Pago Móvil),56,,task_4_1_1,False
+task_4_2_1,"4.2.1 Registro, catálogo médico y pago móvil",80,,task_4_1_3,False
+task_4_2_2,4.2.2 Sala de espera virtual y video consulta WebRTC,72,,"task_4_1_2,task_4_2_1",False
+task_4_3_1,4.3.1 Panel de gestión de citas y video consultas,80,,task_4_1_2,False
+task_4_3_2,4.3.2 Módulo de recetas digitales con firma y PDF/QR,48,,task_4_3_1,False
+task_h_4,H-4 Hito: Módulos de Software Desarrollados,0,,"task_4_2_2,task_4_3_2",False
+task_5_1_1,5.1.1 Pruebas unitarias e integración backend/API,48,,task_h_4,False
+task_5_1_2,5.1.2 Pruebas de conectividad inestable y latencia,32,,task_5_1_1,False
+task_5_2_1,5.2.1 Ethical Hacking y auditoría de protección de datos,40,,task_5_1_1,False
+task_5_3_1,5.3.1 Pruebas UAT con 50 pacientes y 10 médicos piloto,64,,"task_5_1_2,task_5_2_1",False
+task_h_5,H-5 Hito: Certificación de Calidad y UAT Aprobada,0,,task_5_3_1,False
+task_6_1_1,"6.1.1 Configuración final servidores AWS, SSL y balanceadores",32,,task_h_5,False
+task_6_2_1,6.2.1 Carga y aprobación en App Store y Google Play,56,,task_6_1_1,False
+task_6_3_1,6.3.1 Capacitación a Clínica Chilemex y canal de soporte,40,,task_6_2_1,False
+task_h_6,H-6 Hito: Proyecto Culminado en Producción,0,,task_6_3_1,False
+task_1_3_2,1.3.2 Cierre contractual y lecciones aprendidas,24,,task_6_3_1,False
