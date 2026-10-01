@@ -4,6 +4,8 @@
   <p><strong>Profesor:</strong> Mg. Félix Marquez</p>
 </div>
 
+<img width="1408" height="768" alt="SCP style code performance" src="https://github.com/user-attachments/assets/de61093d-d256-43b0-9713-9e542421f5b0" />
+
 <hr/>
 
 ## 🎯 Sobre este repositorio
