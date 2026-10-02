@@ -31,14 +31,15 @@ Se analizan dos problemáticas fundamentales en el ciclo de vida del software:
 
 ## 📚 Documentos y Artefactos Desarrollados
 
-* **Documento principal en PDF:** [`Producto VII - Monitoreo, Calidad y Cierre del Proyecto.pdf`](file:///C:/Users/alexm/.gemini/antigravity-ide/scratch/Ingenieria-del-Software-2/Producto%207%20-%208/Producto%20VII%20-%20Monitoreo,%20Calidad%20y%20Cierre%20del%20Proyecto.pdf)
+* **Documento principal en PDF:** [`Producto VII y VIII - Monitoreo, Calidad y Cierre del Proyecto.pdf`](file:///C:/Users/alexm/.gemini/antigravity-ide/scratch/Ingenieria-del-Software-2/Producto%207%20-%208/Producto%20VII%20y%20VIII%20-%20Monitoreo,%20Calidad%20y%20Cierre%20del%20Proyecto.pdf)
 * **Título formal del informe:** *"Monitoreo, Calidad y Cierre del Proyecto: De la Medición a la Mejora Continua Operativa"*
+* **Nota aclaratoria:** El informe físico/digital integra simultáneamente tanto el **Producto VII** (Monitoreo, Métricas Ágiles/DORA y Control de Calidad) como el **Producto VIII** (Cierre de Proyecto, Retrospectivas y Transición a Operaciones/SRE) en un único cuerpo unificado de trabajo.
 
 ---
 
 ## 🔍 Resumen y Análisis de los Casos de Estudio
 
-### 📊 Pregunta 1: La Paradoja de EVM frente a las Métricas de Flujo y DORA
+### 📊 Pregunta 1 (Producto VII): La Paradoja de EVM frente a las Métricas de Flujo y DORA
 
 * **Caso de Estudio:** Un proyecto de software reporta indicadores de Gestión del Valor Ganado (*Earned Value Management* - EVM) aparentemente excelentes:
   * **CPI = 1.05** (Índice de Desempeño del Costo: por debajo del presupuesto planificado).
@@ -63,7 +64,7 @@ Se analizan dos problemáticas fundamentales en el ciclo de vida del software:
 
 ---
 
-### 🚀 Pregunta 2: Transición de Proyecto a Producto y Sostenibilidad Operacional
+### 🚀 Pregunta 2 (Producto VIII): Transición de Proyecto a Producto y Sostenibilidad Operacional
 
 * **Caso de Estudio:** Un proyecto de infraestructura tecnológica finaliza su fase de ejecución y la gerencia aplica el modelo tradicional de *"entrega y abandono"* (*throw over the wall*): se transfiere un manual básico en PDF, se da por cerrado administrativamente el contrato y el equipo de desarrollo se disuelve inmediatamente.
 
